@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Poppins&display=swap');
+.Custom-TextFont1{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.custom-class-scroll::-webkit-scrollbar{
+	background-color: transparent;
+    width: 0px;
+
+}
+.Custom-Background-Color3{
+	background-color: #F4F5F7;
+}
