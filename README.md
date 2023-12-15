@@ -8,7 +8,7 @@ To install Items Marketplace, use [Composer](https://getcomposer.org/):
 
 ```bash
 composer install
-
+```bash
 Make sure to configure your database settings and other environment variables as needed.
 
 Usage
